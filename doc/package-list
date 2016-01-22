@@ -10,6 +10,9 @@ client.join
 client.login
 client.main
 client.map
+client.map.model
+client.map.model.handlers
+client.map.model.objects
 client.maritime
 client.misc
 client.networking
