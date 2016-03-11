@@ -23,6 +23,15 @@ client.resources
 client.roll
 client.turntracker
 client.utils
+server
+server.commands
+server.commands.game
+server.commands.games
+server.commands.moves
+server.commands.user
+server.commands.util
+server.cookie
+server.model
 shared.definitions
 shared.locations
 shared.model
