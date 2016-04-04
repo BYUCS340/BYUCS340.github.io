@@ -36,6 +36,8 @@ server.commands.util
 server.cookie
 server.model
 server.persistence
+server.persistence.plugins.FilePluginTmp
+server.persistence.plugins.SQLPluginTmp
 server.swagger
 shared.data
 shared.definitions
